@@ -1,0 +1,24 @@
+{
+  "name": "almostfinished.me",
+  "version": "1.0.0",
+  "description": "A perpetually incomplete portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asitwouldseem/almostfinished.me.git"
+  },
+  "keywords": [],
+  "author": "Cameron Morgan",
+  "license": "UNLICENSED",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/asitwouldseem/almostfinished.me/issues"
+  },
+  "homepage": "https://github.com/asitwouldseem/almostfinished.me#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.1"
+  }
+}
